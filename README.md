@@ -3,18 +3,17 @@
 ## Erin Werner
 
 
-CHANGE:::
+Understanding language is fundamental to human interaction. Our brains have evolved language-specific circuitry that helps us learn it very quickly; however, this also means that we have great difficulty explaining how exactly meaning arises from sounds and symbols. Natual Language Processing (NLP) is a broad introduction to linguistic phenomena that attempts to analyze them with machine learning. 
 
-Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values. This can be achieved with both supervised (labeled) and unsupervised (unlabeled) learning techniques.
+The [projects](https://github.com/etwernerMIDS/Natural_Language_Processing/tree/main/Projects) in this repository will cover different aspects within the filed of matural language processing, such as 
 
-The [projects](https://github.com/etwernerMIDS/Machine_Learning/tree/master/Projects) in this repository will cover different aspects within the filed of machine learning, such as 
-
-* Building a Classifier & Making Predictions:
+* Information Extraction:
   * *Supervised* - K-NN, Naive Bayes, Linear & Logistic Regression
   * *Unsupervised* - K-Means, GMM
-* Processing Text Data
+* Machine Translation
   * Count Vectorization
   * TFIDF Tokenization
-* Recommending Similar Products & Users
+* Sentiment Analysis
   * Collaborative Filtering
   * Latent Factorization
+* Summarization
