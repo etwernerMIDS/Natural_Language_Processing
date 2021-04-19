@@ -11,7 +11,10 @@ The [projects](https://github.com/etwernerMIDS/Natural_Language_Processing/tree/
   * Bag-of-Words Models 
   * Convolution Neual Networks (CNNs)
   * BERT Language Modeling
-* Summarization
-  * Named Entity Recognition   
+* Information Extraction
+  * Named Entity Recognition  
+  * TF-IDF
+  * Neural IR Models 
 * Machine Translation
+  * Language Modeling 
   * Sequence-to-Sequence Models
