@@ -7,13 +7,11 @@ Understanding language is fundamental to human interaction. Our brains have evol
 
 The [projects](https://github.com/etwernerMIDS/Natural_Language_Processing/tree/main/Projects) in this repository will cover different aspects within the filed of matural language processing, such as 
 
-* Information Extraction:
-  * *Supervised* - K-NN, Naive Bayes, Linear & Logistic Regression
-  * *Unsupervised* - K-Means, GMM
-* Machine Translation
-  * Count Vectorization
-  * TFIDF Tokenization
 * Sentiment Analysis
-  * Collaborative Filtering
-  * Latent Factorization
+  * Bag-of-Words Models 
+  * Convolution Neual Networks (CNNs)
+  * BERT Language Modeling
 * Summarization
+  * Named Entity Recognition   
+* Machine Translation
+  * Sequence-to-Sequence Models
