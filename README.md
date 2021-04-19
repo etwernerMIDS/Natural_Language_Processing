@@ -16,5 +16,5 @@ The [projects](https://github.com/etwernerMIDS/Natural_Language_Processing/tree/
   * TF-IDF
   * Neural IR Models 
 * Machine Translation
-  * Language Modeling 
+  * Tokenization & Embeddings 
   * Sequence-to-Sequence Models
