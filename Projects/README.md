@@ -10,22 +10,16 @@ The purpose of this project is to determine the nuanced feeling behind a tweet, 
 
 * [Code](https://github.com/etwernerMIDS/Natural_Language_Processing/tree/main/Projects/Code)
 
-For this project, we experimented with several different text-cleaning techniques as well as machine learning models. This directory contains all of the code used to accomplish our goal.
+We experimented with several different text-cleaning techniques as well as machine learning models. This directory contains all of the code used to accomplish our goal.
 
-Text Preprocessing: 
-- Original Raw Tweet Text
-- Tweet-Specific Custom Cleaned Text
-- General Custom Cleaned Text
+**Text Preprocessing:** Original Raw Tweet Text, Tweet-Specific Custom Cleaned Text, & General Custom Cleaned Text
 
-Machine Learning Models:
-- Logistic Regression
-- Single-Layer Perceptron
-- Shallow & Deep Convolutional Neual Networks
-- BERT Language Modeling
+**Machine Learning Models:** Logistic Regression, Single-Layer Perceptron, Shallow/Deep Convolutional Neual Networks, & BERT Language Modeling
+
 
 * [Paper](https://github.com/etwernerMIDS/Natural_Language_Processing/tree/main/Projects/Paper)
 
- 
+ For this project, we complied our results into a paper. After experimenting with different combinations of text preprocessing and machine learning models, we found that the best results (0.92 F1 Score) were achieved with BERT Language Modeling on the orginial raw tweet text.
 
 *All of these projects were completed for UCB's Master of Data Science Course W266 - Natural Language Processing with Deep Learning. These were completed using Python Jupyter Notebooks.* 
 
